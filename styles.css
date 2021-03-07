@@ -2224,7 +2224,11 @@ html, body {
 }
 body {
   margin: 0;
-  font-family: Roboto, "Helvetica Neue", sans-serif;
+  font-family: Fredoka One, cursive;
+  background: url('bg.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 
 /*# sourceMappingURL=styles.css.map*/

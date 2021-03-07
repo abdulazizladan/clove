@@ -1,2 +1,0 @@
-# clove
-online marketplace
