@@ -6,6 +6,9 @@ export class Product {
   id: number;
 
   @Column()
+  seller_id: string;
+
+  @Column()
   name: string;
 
   @Column()
