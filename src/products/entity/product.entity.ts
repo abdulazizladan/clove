@@ -27,6 +27,6 @@ export class Product {
   unit_price: number;
 
   @ApiProperty()
-  @Column()
+  @Column('date')
   uploaded_at: Date;
 }
